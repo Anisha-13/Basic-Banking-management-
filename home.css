@@ -1,0 +1,9 @@
+#cover{
+  position: fixed;
+  top:55px;
+  height: 100%;
+  width:100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
